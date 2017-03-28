@@ -5,12 +5,6 @@
   background: url('iLSfkji.png') center / cover
 }
 
-.home-panel > .mdl-card__media
-{
-  width: 200px;
-  height: 200px;
-}
-
 .home-panel > .mdl-card__actions
 {
   padding: 5px;
