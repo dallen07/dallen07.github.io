@@ -3,7 +3,7 @@
   background: url('iLSfkji.png') center / cover
 }
 
-.top-banner-image-scroll .mdl-layout__header-row
+.mdl-layout__header-row .mdl-navigation__link
 {
   color: #03A9F4
 }
