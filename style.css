@@ -1,12 +1,17 @@
 .home-panel.mdl-card
 {
   width: 420px;
-  height: 420px
+  height: 420px;
+  background: url('C:\Users\AllenA12\Downloads\iLSfkji.png') center / cover
 }
 
 .home-panel > .mdl-card__media
 {
   width: 200px;
   height: 200px;
-  border: 0px;
-}  
+}
+
+.home-panel > .mdl-card__actions
+{
+  padding: 5px;
+  height: 50px;
