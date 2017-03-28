@@ -15,8 +15,8 @@
 
 .home-panel.mdl-card
 {
-  width: 420px;
-  height: 420px;
+  width: 300x;
+  height: 300px;
   background: url('iLSfkji.png') center / cover;
   margin: auto
 }
@@ -24,7 +24,7 @@
 .home-panel > .mdl-card__actions
 {
   padding: 5px;
-  height: 50px;
+  height: 10px;
   background: rgba(0, 0, 0, 0.2)
 }
 
