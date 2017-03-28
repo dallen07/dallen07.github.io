@@ -18,7 +18,7 @@
   width: 420px;
   height: 420px;
   background: url('iLSfkji.png') center / cover;
-  align-items: center
+  margin: auto
 }
 
 .home-panel > .mdl-card__actions
