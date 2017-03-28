@@ -11,3 +11,45 @@
   height: 50px;
   background: rgba(0, 0, 0, 0.2)
 }
+
+.profile-panel.mdl-card
+{
+  width: 420px;
+  height: 420px;
+  background: url('iLSfkji.png') center / cover
+}
+
+.profile-panel > .mdl-card__actions
+{
+  padding: 5px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.2)
+}
+
+.projs-panel.mdl-card
+{
+  width: 420px;
+  height: 420px;
+  background: url('iLSfkji.png') center / cover
+}
+
+.projs-panel > .mdl-card__actions
+{
+  padding: 5px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.2)
+}
+
+.art-portfolio-panel.mdl-card
+{
+  width: 420px;
+  height: 420px;
+  background: url('iLSfkji.png') center / cover
+}
+
+.art-portfolio-panel > .mdl-card__actions
+{
+  padding: 5px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.2)
+}
