@@ -8,9 +8,16 @@
   color: white
 }
 
+.top-banner-image-scroll .mdl-layout__header-row
+{
+  text-align: center;
+  max-width: 500px;
+  width: 100%
+}
+
 .mdl-layout__header .mdl-layout__header-row .mdl-navigation__link
 {
-  color: #03A9F4
+  color: #03A9F4;
 }
 
 .home-panel.mdl-card
