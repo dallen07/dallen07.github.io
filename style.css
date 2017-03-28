@@ -22,7 +22,7 @@
 
 .mdl-grid
 {
-  margin: 25px;
+  padding: 25px;
   z-index: 1;
   position: relative
 }
