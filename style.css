@@ -3,7 +3,7 @@
   background: url('iLSfkji.png') center / cover
 }
 
-.top-banner-image-scroll .mdl-layout__header
+.top-banner-image-scroll > .mdl-layout__header
 {
   color: blue
 }
