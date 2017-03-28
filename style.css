@@ -4,9 +4,9 @@
   height: 420px
 }
 
-.home-panel > .mdl-card__title
+.home-panel > .mdl-card__media
 {
-  color: #607D8B
-  background: url('C:\Users\AllenA12\Downloads\iLSfkji.png')
-    top-center 20% no-repeat #678B60;
-}
+  width: 200px;
+  height: 200px;
+  border: 0px;
+}  
