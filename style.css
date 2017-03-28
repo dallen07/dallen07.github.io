@@ -1,6 +1,6 @@
 .top-banner-image-scroll
 {
-  background: url('iLSfkji.png') center / cover / no-repeat
+  background: url('iLSfkji.png') center / cover
 }
 
 .top-banner-image-scroll .mdl-layout__header
@@ -17,7 +17,8 @@
 {
   width: 420px;
   height: 420px;
-  background: url('iLSfkji.png') center / cover
+  background: url('iLSfkji.png') center / cover;
+  align-items: center
 }
 
 .home-panel > .mdl-card__actions
