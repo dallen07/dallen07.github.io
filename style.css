@@ -1,0 +1,12 @@
+.home-panel.mdl-card
+{
+  width: 420px;
+  height: 420px
+}
+
+.home-panel.mdl-card > .mdl-card__title
+{
+  color: #607D8B
+  background: url('C:\Users\AllenA12\Downloads\iLSfkji.png')
+    top-center 20% no-repeat #678B60;
+}
