@@ -22,7 +22,9 @@
 
 .mdl-cell
 {
-  margin: 5px
+  margin: 25px;
+  z-index: 1;
+  position: relative
 }
 
 .home-panel.mdl-card
