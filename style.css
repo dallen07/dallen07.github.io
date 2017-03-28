@@ -3,9 +3,9 @@
   background: url('iLSfkji.png') center / cover
 }
 
-.top-banner-image-scroll > .mdl-layout__header
+.top-banner-image-scroll .mdl-navigation
 {
-  color: blue
+  color: #03A9F4
 }
 
 .home-panel.mdl-card
