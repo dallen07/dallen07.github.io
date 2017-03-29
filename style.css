@@ -11,7 +11,7 @@
   padding: 0;
 }
 
-.site-header
+.site-header .mdl-layout__header-row
 {
   height: 20px;
 }
