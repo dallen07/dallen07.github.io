@@ -52,6 +52,11 @@ nav.mdl-navigation .mdl-navigation__link
   position: relative
 }
 
+a.mdl-card
+{
+  color: #03A9F4
+}
+
 .home-panel.mdl-card
 {
   width: 300px;
