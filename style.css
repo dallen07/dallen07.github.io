@@ -22,13 +22,13 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: center;
 }
 
-.site-header .mdl-layout__header-row .mdl-navigation__link
+/*.site-header .mdl-layout__header-row .mdl-navigation__link
 {
   line-height: 20px;
   height: 2px;
   width: 45%;
   bottom: 0
-}
+}*/
 
 .site-header .is-active
 {
@@ -42,7 +42,11 @@ nav.mdl-navigation .mdl-navigation__link
   height: 45px;
   position: absolute;
   background-color: #03A9F4;
-  display: block
+  display: block;
+  line-height: 20px;
+  height: 2px;
+  width: 45%;
+  bottom: 0
 }
 
 .mdl-layout__content .mdl-grid
