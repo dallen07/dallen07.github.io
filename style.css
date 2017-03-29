@@ -18,14 +18,11 @@
 
 .site-header .mdl-layout_header-row .mdl-navigation__link
 {
-   color: #03A9F4;
-}
-
-.site-header .mdl-navigation__link
-{
   color: #03A9F4;
-  flex: 1;
-  line-height: 20px
+  line-height: 20px;
+  height: 2px;
+  width: 45%;
+  bottom: 0
 }
 
 .site-header .is-active
