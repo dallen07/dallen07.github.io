@@ -19,12 +19,12 @@
 nav.mdl-navigation .mdl-navigation__link
 {
   color: #03A9F4;
+  line-height: 20px;
 }
 
 .site-header .mdl-navigation
 {
   text-align: center;
-  line-height: 20px;
 }
 
 .site-header .is-active
