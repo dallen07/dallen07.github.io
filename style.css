@@ -3,9 +3,10 @@
   background: url('iLSfkji.png');
   position: relative;
   min-height: 200px;
+  color: #03A9F4;
 }
 
-.top-banner-image-scroll .site-header
+.top-banner-image-scroll .mdl-layout__header-row
 {
   justify-content: center;
   padding: 0;
@@ -21,9 +22,8 @@
   text-align: center;
 }
 
-.site-header .mdl-layout_header-row .mdl-navigation__link
+.site-header .mdl-layout__header-row .mdl-navigation__link
 {
-  color: #03A9F4;
   line-height: 20px;
   height: 2px;
   width: 45%;
