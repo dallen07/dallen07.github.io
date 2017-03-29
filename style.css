@@ -11,6 +11,11 @@
   padding: 0;
 }
 
+.site-header
+{
+  height: 20px;
+}
+
 nav.mdl-navigation .mdl-navigation__link
 {
   color: #03A9F4;
