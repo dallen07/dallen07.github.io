@@ -11,20 +11,31 @@
   padding: 0;
 }
 
-.nav-row .is-active:after
+.site-header .mdl-navigation
+{
+  color: #03A9F4;
+  text-align: center;
+}
+
+.site-header .mdl-navigation__link
+{
+  flex: 1;
+  line-height: 30px
+}
+
+.site-header .is-active
+{
+  position: relative;
+  font-weight: bold;
+}
+
+.site-header .is-active:after
 {
   content: "";
   height: 45px;
   position: absolute;
-  font-weight: bold;
   background-color: #03A9F4;
   display: block
-}
-
-.mdl-navigation__link
-{
-  color: #03A9F4;
-  text-align: center;
 }
 
 .mdl-layout__content .mdl-grid
