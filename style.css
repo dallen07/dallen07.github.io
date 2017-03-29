@@ -5,8 +5,15 @@
   min-height: 200px
 }
 
+.top-banner-image-scroll .site-header
+{
+  justify-content: center;
+  padding: 0;
+}
+
 .nav-row .is-active:after
 {
+  content: "";
   height: 45px;
   position: absolute;
   font-weight: bold;
