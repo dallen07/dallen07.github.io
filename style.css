@@ -51,7 +51,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .mdl-layout__content .mdl-grid
 {
-  padding: 75px;
+  padding: 150px 75px 75px;
   z-index: 1;
   position: relative
 }
