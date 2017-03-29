@@ -1,11 +1,11 @@
 body
 {
-  background: url(iLSfkji.png')
+  background-image: url('iLSfkji.png')
 }
 
 .top-banner-image-scroll
 {
-  background: url('iLSfkji.png');
+  background: url('iLSfkji.png') center;
   position: relative;
   min-height: 64px;
 }
@@ -13,7 +13,6 @@ body
 .top-banner-image-scroll .mdl-layout__header-row
 {
   justify-content: center;
-  padding: 0;
 }
 
 .site-header .mdl-layout__header-row
