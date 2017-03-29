@@ -13,12 +13,12 @@
 
 .site-header .mdl-navigation
 {
-  color: #03A9F4;
   text-align: center;
 }
 
 .site-header .mdl-navigation__link
 {
+  color: #03A9F4;
   flex: 1;
   line-height: 30px
 }
