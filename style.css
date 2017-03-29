@@ -56,8 +56,8 @@
 
 .home-panel > .mdl-card__actions
 {
-  padding: 15px;
-  height: 20px;
+  padding: 5px 0px 0px 0px;
+  height: 30px;
   background: rgba(0, 0, 0, 0.2)
 }
 
@@ -70,8 +70,8 @@
 
 .profile-panel > .mdl-card__actions
 {
-  padding: 15px;
-  height: 20px;
+  padding: 5px 0px 0px 0px;
+  height: 30px;
   background: rgba(0, 0, 0, 0.2)
 }
 
@@ -84,8 +84,8 @@
 
 .projs-panel > .mdl-card__actions
 {
-  padding: 15px;
-  height: 20px;
+  padding: 5px 0px 0px 0px;
+  height: 30px;
   background: rgba(0, 0, 0, 0.2)
 }
 
@@ -98,7 +98,7 @@
 
 .art-portfolio-panel > .mdl-card__actions
 {
-  padding: 15px;
-  height: 20px;
+  padding: 5px 0px 0px 0px;
+  height: 30px;
   background: rgba(0, 0, 0, 0.2)
 }
