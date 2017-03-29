@@ -11,6 +11,11 @@
   padding: 0;
 }
 
+.mdl-navigation .mdl-navigation__link
+{
+  color: #03A9F4;
+}
+
 .site-header .mdl-navigation
 {
   text-align: center;
@@ -23,11 +28,6 @@
   height: 2px;
   width: 45%;
   bottom: 0
-}
-
-.mdl-navigation__link
-{
-  color: #03A9F4;
 }
 
 .site-header .is-active
