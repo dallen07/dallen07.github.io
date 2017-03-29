@@ -5,7 +5,12 @@
   min-height: 200px
 }
 
-.nav-row .mdl-layout__header-row .mdl-navigation__link
+.nav-row
+{
+  height: 45px
+}
+
+.mdl-layout__header-row .mdl-navigation__link
 {
   color: #03A9F4;
   text-align: center;
