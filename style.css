@@ -16,7 +16,7 @@
   text-align: center;
 }
 
-.site-header .mdl-navigation__link
+.site-header .mdl-layout__header-row .mdl-navigation__link
 {
   color: #03A9F4;
   flex: 1;
