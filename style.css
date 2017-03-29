@@ -2,7 +2,8 @@
 {
   background: url('iLSfkji.png');
   position: relative;
-  min-height: 200px
+  min-height: 200px;
+  color: #03A9F4;
 }
 
 .top-banner-image-scroll .site-header
@@ -58,7 +59,8 @@
 {
   padding: 5px 0px 0px 0px;
   height: 30px;
-  background: rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center
 }
 
 .profile-panel.mdl-card
@@ -72,7 +74,8 @@
 {
   padding: 5px 0px 0px 0px;
   height: 30px;
-  background: rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center
 }
 
 .projs-panel.mdl-card
@@ -86,7 +89,8 @@
 {
   padding: 5px 0px 0px 0px;
   height: 30px;
-  background: rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center
 }
 
 .art-portfolio-panel.mdl-card
@@ -100,5 +104,6 @@
 {
   padding: 5px 0px 0px 0px;
   height: 30px;
-  background: rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center
 }
