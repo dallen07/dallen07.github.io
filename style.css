@@ -3,7 +3,6 @@
   background: url('iLSfkji.png');
   position: relative;
   min-height: 200px;
-  color: #03A9F4;
 }
 
 .top-banner-image-scroll .site-header
@@ -24,6 +23,11 @@
   height: 2px;
   width: 45%;
   bottom: 0
+}
+
+.mdl-navigation__link
+{
+  color: #03A9F4;
 }
 
 .site-header .is-active
