@@ -5,14 +5,16 @@
   min-height: 200px
 }
 
-.nav-row .is-active
+.nav-row .is-active:after
 {
   height: 45px;
-  position: relative;
+  position: absolute;
   font-weight: bold;
+  background-color: #03A9F4;
+  display: block
 }
 
-.site-header .mdl-layout__header-row .mdl-navigation__link
+.mdl-navigation__link
 {
   color: #03A9F4;
   text-align: center;
