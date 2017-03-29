@@ -24,6 +24,7 @@ nav.mdl-navigation .mdl-navigation__link
 .site-header .mdl-navigation
 {
   text-align: center;
+  line-height: 20px;
 }
 
 .site-header .is-active
@@ -39,7 +40,6 @@ nav.mdl-navigation .mdl-navigation__link
   position: absolute;
   background-color: black;
   display: block;
-  line-height: 20px;
   height: 2px;
   width: 45%;
   bottom: 0
