@@ -52,7 +52,7 @@ nav.mdl-navigation .mdl-navigation__link
   position: relative
 }
 
-a.mdl-card__actions
+.mdl-card__actions .a
 {
   color: #03A9F4
 }
