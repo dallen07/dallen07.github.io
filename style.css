@@ -1,16 +1,18 @@
 .top-banner-image-scroll
 {
-  background: url('iLSfkji.png') center / cover;
+  background: url('iLSfkji.png');
   position: relative;
   min-height: 200px
 }
 
-.nav-row
+.nav-row .is-active
 {
-  height: 45px
+  height: 45px;
+  position: relative;
+  font-weight: bold;
 }
 
-.mdl-layout__header-row .mdl-navigation__link
+.nav-row .mdl-layout__header-row .mdl-navigation__link
 {
   color: #03A9F4;
   text-align: center;
