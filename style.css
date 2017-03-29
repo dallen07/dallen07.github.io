@@ -2,11 +2,12 @@
 {
   background: url('iLSfkji.png') center / cover;
   position: relative;
+  min-height: 200px
 }
 
 .top-banner-image-scroll .mdl-layout__header
 {
-  color: white
+  color: #03A9F4
 }
 
 .top-banner-image-scroll .mdl-layout__header-row
