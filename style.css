@@ -2,8 +2,7 @@
 {
   background: url('iLSfkji.png');
   position: relative;
-  min-height: 200px;
-  color: #03A9F4;
+  min-height: 64px;
 }
 
 .top-banner-image-scroll .mdl-layout__header-row
@@ -22,14 +21,6 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: center;
 }
 
-/*.site-header .mdl-layout__header-row .mdl-navigation__link
-{
-  line-height: 20px;
-  height: 2px;
-  width: 45%;
-  bottom: 0
-}*/
-
 .site-header .is-active
 {
   position: relative;
@@ -41,7 +32,7 @@ nav.mdl-navigation .mdl-navigation__link
   content: "";
   height: 45px;
   position: absolute;
-  background-color: #03A9F4;
+  background-color: black;
   display: block;
   line-height: 20px;
   height: 2px;
