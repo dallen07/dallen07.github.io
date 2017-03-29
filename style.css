@@ -12,6 +12,9 @@
 .mdl-layout__header .mdl-layout__header-row .mdl-navigation__link
 {
   color: #03A9F4;
+  text-align: center;
+  max-width: 400px;
+  width: 100%
 }
 
 .mdl-layout__content .mdl-grid
