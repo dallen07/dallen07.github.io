@@ -16,7 +16,7 @@
   text-align: center;
 }
 
-.mdl-navigation__link
+.site-header .mdl-layout_header-row .mdl-navigation__link
 {
    color: #03A9F4;
 }
@@ -25,7 +25,7 @@
 {
   color: #03A9F4;
   flex: 1;
-  line-height: 30px
+  line-height: 20px
 }
 
 .site-header .is-active
