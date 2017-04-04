@@ -46,6 +46,7 @@ nav.mdl-navigation .mdl-navigation__link
   display: block;
   height: 2px;
   width: 65%;
+  left: 15%;
   bottom: 0
 }
 
