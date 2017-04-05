@@ -119,12 +119,17 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.links_footer ul
+.links_footer.mdl-mini-footer ul
 {
   list-style: none
 }
 
-.links_footer.mdl-mini-footer li
+.profile-layout ul
+{
+  list-style-type: none
+}
+
+.profile-layout li
 {
   position: relative;
 }
