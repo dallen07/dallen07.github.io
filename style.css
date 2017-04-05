@@ -42,10 +42,10 @@ nav.mdl-navigation .mdl-navigation__link
   content: "";
   height: 45px;
   position: absolute;
-  background-color: black;
+  background-color: rgb(128, 56, 244);
   display: block;
   height: 2px;
-  width: 65%;
+  width: 69%;
   left: 15%;
   bottom: 0
 }
