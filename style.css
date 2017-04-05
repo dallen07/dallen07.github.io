@@ -129,7 +129,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.links_footer.mdl-mini-footer ul
+.links_footer.mdl-mini-footer__right-section ul
 {
   list-style: none;
   display: flex;
