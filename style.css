@@ -130,13 +130,6 @@ nav.mdl-navigation .mdl-navigation__link
   cursor: pointer
 }
 
-.mdl-mini-footer--social-btn
-{
-  background-color: transparent;
-  width: 20px;
-  height: 20px
-}
-
 .facebook_social-icon
 {
   background: url('https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png')
@@ -155,4 +148,11 @@ nav.mdl-navigation .mdl-navigation__link
 .github_social-icon
 {
   background: url('https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png')
+}
+
+.mdl-mini-footer--social-btn
+{
+  background-color: transparent;
+  width: 20px;
+  height: 20px
 }
