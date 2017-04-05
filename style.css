@@ -126,11 +126,12 @@ nav.mdl-navigation .mdl-navigation__link
   height: 20px
 }
 
-.social-media-links.mdl-mini-footer .social-btn
+.social-media-links.mdl-mini-footer.social-btn
 {
   display: block;
   width: 20px;
   height: 20px;
+  background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   cursor: pointer
