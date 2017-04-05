@@ -3,12 +3,6 @@ body
   background: url('iLSfkji.png') center / cover
 }
 
-//Profile Edits
-.profile-layout ul
-{
-  list-style-type: none
-}
-
 .top-banner-image-scroll
 {
   background: url('0e3.png') center;
@@ -125,7 +119,12 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.links_footer.mdl-mini-footer ul
+.social-media-links ul
+{
+  list-style-type: none
+}
+
+.links_footer.mdl-mini-footer li
 {
   position: relative;
 }
