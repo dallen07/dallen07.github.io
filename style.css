@@ -3,16 +3,6 @@ body
   background: url('iLSfkji.png') center / cover
 }
 
-.profile-layout ul
-{
-  list-style-type: none
-}
-
-.profile-layout li
-{
-  position: relative;
-}
-
 .top-banner-image-scroll
 {
   background: url('0e3.png') center;
@@ -129,7 +119,17 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.links_footer .mdl-mini-footer ul
+.profile-layout ul
+{
+  list-style-type: none
+}
+
+.profile-layout li
+{
+  position: relative;
+}
+
+.links_footer.mdl-mini-footer ul
 {
   padding: 0;
   flex-direction: row;
