@@ -119,9 +119,9 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.social-media-links ul
+.mdl-mini-footer__right-section ul
 {
-  list-style-type: none
+  list-style: none
 }
 
 .links_footer.mdl-mini-footer li
