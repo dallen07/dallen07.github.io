@@ -6,7 +6,7 @@ body
 //Profile Edits
 .profile-layout ul
 {
-  position: relative
+  list-style-type: none
 }
 
 .top-banner-image-scroll
@@ -127,7 +127,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .links_footer.mdl-mini-footer ul
 {
-  list-style-type: none
+  position: relative;
 }
 
 .links_footer.mdl-mini-footer .mdl-mini-footer__social-btn
