@@ -142,7 +142,8 @@ nav.mdl-navigation .mdl-navigation__link
 {
   background-color: transparent;
   width: 20px;
-  height: 20px
+  height: 20px;
+  padding: 0 5px
 }
 
 .links_footer.mdl-mini-footer .social-btn
