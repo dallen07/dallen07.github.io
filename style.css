@@ -119,19 +119,19 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-li.social-media-links .mdl-mini-footer__social-btn
+.mdl-mini-footer.mdl-mini-footer__right-section ul
 {
   list-style-type: none
 }
 
-.social-media-links .mdl-mini-footer .mdl-mini-footer__social-btn
+.mdl-mini-footer.mdl-mini-footer__right-section .mdl-mini-footer__social-btn
 {
   background-color: transparent;
   width: 20px;
   height: 20px
 }
 
-.mdl-mini-footer__right-section .social-btn
+.mdl-mini-footer .mdl-mini-footer__right-section .social-btn
 {
   display: block;
   width: 20px;
