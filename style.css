@@ -116,3 +116,15 @@ nav.mdl-navigation .mdl-navigation__link
   background: rgba(0, 0, 0, 0.4);
   text-align: center
 }
+
+//Social Media Links for all pages
+
+.social-media-links .mdl-mini-footer .social-btn
+{
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer
+}
