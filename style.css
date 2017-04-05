@@ -3,6 +3,16 @@ body
   background: url('iLSfkji.png') center / cover
 }
 
+.profile-layout ul
+{
+  list-style-type: none
+}
+
+.profile-layout li
+{
+  position: relative;
+}
+
 .top-banner-image-scroll
 {
   background: url('0e3.png') center;
@@ -121,17 +131,10 @@ nav.mdl-navigation .mdl-navigation__link
 
 .links_footer.mdl-mini-footer ul
 {
-  list-style: none
-}
-
-.profile-layout ul
-{
-  list-style-type: none
-}
-
-.profile-layout li
-{
-  position: relative;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center
 }
 
 .links_footer.mdl-mini-footer .mdl-mini-footer__social-btn
