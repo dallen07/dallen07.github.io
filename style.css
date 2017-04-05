@@ -119,14 +119,14 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Social Media Links for all pages
 
-.profile-layout ul
-{
-  list-style-type: none
-}
-
 .profile-layout li
 {
   position: relative;
+}
+
+.profile-layout ul
+{
+  list-style-type: none
 }
 
 .links_footer.mdl-mini-footer ul
