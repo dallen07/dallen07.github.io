@@ -119,7 +119,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 //Profile Specifics Changes
 
-.life_motto
+.mdl-layout__content.life_motto
 {
   margin: 0px 0px 0px 600px;
   color: rgb(50, 200, 150);
