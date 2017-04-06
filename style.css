@@ -60,6 +60,14 @@ nav.mdl-navigation .mdl-navigation__link
   line-height: 300%;
 }
 
+.mdl-layout__content h2
+{
+  text-align: center;
+  color: rgb(48, 160, 24);
+  font-weight: 600;
+  line-height: 200%
+}
+
 .mdl-layout__content .mdl-grid
 {
   padding: 150px 75px 75px;
