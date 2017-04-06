@@ -50,6 +50,15 @@ nav.mdl-navigation .mdl-navigation__link
   bottom: 0
 }
 
+//Profile Specifics Changes
+
+.mdl-layout__content .life_motto
+{
+  margin: 0px 0px 0px 600px;
+  color: rgb(50, 200, 150);
+  padding: 10px 0 0 0
+}
+
 .mdl-layout__content .mdl-grid
 {
   padding: 150px 75px 75px;
@@ -115,15 +124,6 @@ nav.mdl-navigation .mdl-navigation__link
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
-}
-
-//Profile Specifics Changes
-
-.mdl-layout__content .life_motto
-{
-  margin: 0px 0px 0px 600px;
-  color: rgb(50, 200, 150);
-  padding: 10px 0 0 0
 }
 
 //Social Media Links for all pages
