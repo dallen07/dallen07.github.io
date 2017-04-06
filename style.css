@@ -137,12 +137,12 @@ nav.mdl-navigation .mdl-navigation__link
 
 /*Social Media Links for all pages*/
 
-.profile-layout li
+.home-layout, .profile-layout, .projs-layout, .art-portfolio-layout li
 {
   position: relative;
 }
 
-.profile-layout ul
+.home-layout, .profile-layout, .projs-layout, .art-portfolio-layout ul
 {
   list-style-type: none
 }
