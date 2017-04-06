@@ -1,3 +1,3 @@
 $("document").ready(function(){
-  $(".home-panel.mdl-card.mdl-card__actions").carousel();
+  $(".home-layout, .profile-layout, .projs-layout, .art-portfolio-layout").css("ul", "list-style-type: none");
   });
