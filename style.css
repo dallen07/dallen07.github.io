@@ -76,6 +76,14 @@ nav.mdl-navigation .mdl-navigation__link
   color: rgb(255, 100, 34)
 }
 
+.mdl-layout__content p
+{
+  line-height: 200%;
+  text-align: center;
+  font-weight: 500;
+  color: rgb(65, 200, 187)
+}
+
 .mdl-layout__content .mdl-grid
 {
   padding: 150px 75px 75px;
