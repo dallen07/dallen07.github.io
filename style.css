@@ -54,9 +54,10 @@ nav.mdl-navigation .mdl-navigation__link
 
 .mdl-layout__content .life_motto
 {
-  margin: 0px 0px 0px 650px;
   color: rgb(50, 200, 150);
-  padding: 10px 0 0 0
+  text-align: center;
+  font-weight: 700;
+  line-height: 300%;
 }
 
 .mdl-layout__content .mdl-grid
