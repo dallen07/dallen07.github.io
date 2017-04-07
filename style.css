@@ -128,8 +128,8 @@ nav.mdl-navigation .mdl-navigation__link
 .home-panel.mdl-card i
 {
   text-align: center;
-  font-size: 200px;
-  line-height: 130%
+  font-size: 193px;
+  line-height: 140%
 }
 
 .home-panel.mdl-card .mdl-card__title
@@ -139,7 +139,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .home-panel > .mdl-card__actions
 {
-  padding: 5px 0px 0px 0px;
+  padding: 0;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -154,8 +154,8 @@ nav.mdl-navigation .mdl-navigation__link
 .profile-panel.mdl-card i
 {
   text-align: center;
-  font-size: 200px;
-  line-height: 130%
+  font-size: 193px;
+  line-height: 140%
 }
 
 .profile-panel.mdl-card .mdl-card__title
@@ -165,7 +165,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .profile-panel > .mdl-card__actions
 {
-  padding: 5px 0px 0px 0px;
+  padding: 0;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -180,8 +180,8 @@ nav.mdl-navigation .mdl-navigation__link
 .projs-panel.mdl-card i
 {
   text-align: center;
-  font-size: 200px;
-  line-height: 130%
+  font-size: 193px;
+  line-height: 140%
 }
 
 .projs-panel.mdl-card .mdl-card__title
@@ -191,7 +191,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .projs-panel > .mdl-card__actions
 {
-  padding: 5px 0px 0px 0px;
+  padding: 0;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -206,8 +206,8 @@ nav.mdl-navigation .mdl-navigation__link
 .art-portfolio-panel.mdl-card i
 {
   text-align: center;
-  font-size: 200px;
-  line-height: 130%
+  font-size: 193px;
+  line-height: 140%
 }
 
 .art-portfolio-panel.mdl-card .mdl-card__title
@@ -217,7 +217,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .art-portfolio-panel > .mdl-card__actions
 {
-  padding: 5px 0px 0px 0px;
+  padding: 0;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
