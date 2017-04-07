@@ -1,6 +1,10 @@
 body
 {
-  background: url('iLSfkji.png') center / cover
+  background: url('iLSfkji.png') center / cover;
+  /*background-color: rgb(96, 125, 139); Blue Grey Primary Color
+  background-color: rgb(69, 90, 100); Blue Grey Secondary Color
+  background-color: rgb(3, 169, 244); Light Blue Primary Color
+  background-color: rgb(2, 136, 209); Light Blue Secondary Color*/
 }
 
 .top-banner-image-scroll
