@@ -126,6 +126,18 @@ nav.mdl-navigation .mdl-navigation__link
   background: url('iLSfkji.png') center / cover;
 }
 
+.home-panel.mdl-card i
+{
+  text-align: center;
+  font-size: 200px;
+  line-height: 130%
+}
+
+.home-panel.mdl-card .mdl-card__title
+{
+  padding: initial
+}
+
 .home-panel > .mdl-card__actions
 {
   padding: 5px 0px 0px 0px;
