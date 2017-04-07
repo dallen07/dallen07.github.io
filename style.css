@@ -84,6 +84,14 @@ nav.mdl-navigation .mdl-navigation__link
   color: rgb(65, 200, 187)
 }
 
+.mdl-layout__content img
+{
+  width: 30%;
+  height: auto;
+  margin: auto;
+  display: block
+}
+
 .mdl-layout__content .mdl-grid
 {
   padding: 150px 75px 75px;
