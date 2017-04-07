@@ -106,7 +106,8 @@ nav.mdl-navigation .mdl-navigation__link
   font-size: x-large;
   font-weight: 900;
   letter-spacing: 5px;
-  text-decoration: underline
+  text-decoration: underline;
+  line-height: 300%
 }
 
 /*End of Art Portfolio Styling */
