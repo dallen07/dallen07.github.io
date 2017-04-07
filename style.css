@@ -54,7 +54,7 @@ nav.mdl-navigation .mdl-navigation__link
   bottom: 0
 }
 
-/*Profile Specifics Changes*/
+/*Profile Page Styling*/
 
 .mdl-layout__content .life_motto
 {
@@ -95,6 +95,21 @@ nav.mdl-navigation .mdl-navigation__link
   margin: auto;
   display: block
 }
+
+/*End of Profile Page Styling */
+
+/*Art Portfolio Page Styling */
+
+.mdl-layout__content .revamp_msg
+{
+  text-align: center;
+  font-size: x-large;
+  font-weight: 900;
+  letter-spacing: 5px;
+  text-decoration: underline
+}
+
+/*End of Art Portfolio Styling */
 
 .mdl-layout__content .mdl-grid
 {
@@ -222,3 +237,4 @@ nav.mdl-navigation .mdl-navigation__link
 {
   background: url('https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png')
 }
+/*End of Social Media Links on all pages*/
