@@ -139,7 +139,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .home-panel > .mdl-card__actions
 {
-  padding: 0;
+  justify-content: center;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -165,7 +165,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .profile-panel > .mdl-card__actions
 {
-  padding: 0;
+  justify-content: center;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -191,7 +191,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .projs-panel > .mdl-card__actions
 {
-  padding: 0;
+  justify-content: center;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
@@ -217,7 +217,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .art-portfolio-panel > .mdl-card__actions
 {
-  padding: 0;
+  justify-content: center;
   height: 30px;
   background: rgba(0, 0, 0, 0.4);
   text-align: center
