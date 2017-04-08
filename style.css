@@ -54,16 +54,6 @@ nav.mdl-navigation .mdl-navigation__link
   bottom: 0
 }
 
-/*Profile Page Styling*/
-
-.mdl-layout__content .life_motto
-{
-  color: rgb(50, 200, 150);
-  text-align: center;
-  font-weight: 700;
-  line-height: 300%;
-}
-
 .mdl-layout__content h2
 {
   text-align: center;
@@ -80,12 +70,30 @@ nav.mdl-navigation .mdl-navigation__link
   color: rgb(255, 100, 34)
 }
 
+.mdl-layout__content h4
+{
+  font-weight: 600;
+  line-height: 200%;
+  text-align: center;
+  color: rgb(163, 89, 207)
+}
+
 .mdl-layout__content p
 {
   line-height: 200%;
   text-align: center;
   font-weight: 500;
   color: rgb(65, 200, 187)
+}
+
+/*Profile Page Styling*/
+
+.mdl-layout__content .life_motto
+{
+  color: rgb(50, 200, 150);
+  text-align: center;
+  font-weight: 700;
+  line-height: 300%;
 }
 
 .mdl-layout__content img
