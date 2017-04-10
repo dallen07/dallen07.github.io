@@ -105,7 +105,7 @@ nav.mdl-navigation .mdl-navigation__link
   display: block
 }
 
-.profile_profession ul
+.profile_profession
 {
   text-align: center;
   list-style-type: square;
