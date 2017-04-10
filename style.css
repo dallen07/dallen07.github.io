@@ -124,7 +124,8 @@ nav.mdl-navigation .mdl-navigation__link
 {
   justify-content: center;
   z-index: 1;
-  position: relative
+  position: relative;
+  padding: 10% 0 0
 }
 
 .home-panel.mdl-card
