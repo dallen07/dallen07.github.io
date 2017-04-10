@@ -89,7 +89,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .mdl-layout__content ul, li
 {
-  position: relative;
+  align-items: center;
   list-style-type: square
 }
 
