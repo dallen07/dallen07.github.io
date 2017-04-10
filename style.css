@@ -87,6 +87,12 @@ nav.mdl-navigation .mdl-navigation__link
   padding: 0 10%
 }
 
+.mdl-layout__content ul, li
+{
+  position: relative;
+  list-style-type: square
+}
+
 /*Profile Page Styling*/
 
 .mdl-layout__content .life_motto
