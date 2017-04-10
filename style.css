@@ -87,12 +87,6 @@ nav.mdl-navigation .mdl-navigation__link
   padding: 0 10%
 }
 
-.mdl-layout__content ul, li
-{
-  align-items: center;
-  list-style-type: square
-}
-
 /*Profile Page Styling*/
 
 .mdl-layout__content .life_motto
@@ -109,6 +103,13 @@ nav.mdl-navigation .mdl-navigation__link
   height: auto;
   margin: auto;
   display: block
+}
+
+.profile_profession ul, li
+{
+  text-align: center;
+  list-style-type: square;
+  list-style-position: inside
 }
 
 /*End of Profile Page Styling */
