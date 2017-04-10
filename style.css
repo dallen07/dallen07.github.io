@@ -83,7 +83,8 @@ nav.mdl-navigation .mdl-navigation__link
   line-height: 200%;
   text-align: center;
   font-weight: 500;
-  color: rgb(65, 200, 187)
+  color: rgb(65, 200, 187);
+  padding: 0 10%
 }
 
 /*Profile Page Styling*/
