@@ -108,8 +108,12 @@ nav.mdl-navigation .mdl-navigation__link
 .profile_profession
 {
   text-align: center;
-  list-style-type: square;
   list-style-position: inside
+}
+
+.pro_prof
+{
+  list-style-type: square
 }
 
 /*End of Profile Page Styling */
