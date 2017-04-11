@@ -99,10 +99,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .mdl-layout__content img
 {
-  width: 30%;
-  height: auto;
-  margin: auto;
-  display: block
+  width: 100%
 }
 
 .profile_profession
@@ -131,6 +128,16 @@ nav.mdl-navigation .mdl-navigation__link
 }
 
 /*End of Art Portfolio Styling */
+
+/*Project Styling*/
+
+.github_img
+{
+  margin: auto;
+  width: 15%
+}
+
+/*End of Project Styling*/
 
 .mdl-layout__content .mdl-grid
 {
