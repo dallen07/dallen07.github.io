@@ -87,6 +87,11 @@ nav.mdl-navigation .mdl-navigation__link
   padding: 0 10%
 }
 
+.mdl-layout__content img
+{
+  width: 100%
+}
+
 /*Profile Page Styling*/
 
 .mdl-layout__content .life_motto
@@ -97,9 +102,10 @@ nav.mdl-navigation .mdl-navigation__link
   line-height: 300%;
 }
 
-.mdl-layout__content img
+.profile_img
 {
-  width: 100%
+  width: 20%;
+  margin: auto
 }
 
 .profile_profession
