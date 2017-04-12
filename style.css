@@ -7,7 +7,7 @@ body
   background-color: rgb(2, 136, 209); Light Blue Secondary Color*/
 }
 
-.top-banner-image-scroll
+.top-banner-image-scroll.mdl-layout__header
 {
   background: rgb(69, 90, 100);
   position: relative;
