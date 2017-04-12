@@ -9,7 +9,7 @@ body
 
 .top-banner-image-scroll
 {
-  background: url('http://pre03.deviantart.net/0d88/th/pre/f/2011/163/b/4/dark_weave_backdrop_by_merrdyn-d3ir4n1.png') center;
+  /*background: url('') center; Comment out until further use.*/
   position: relative;
   min-height: 64px;
 }
