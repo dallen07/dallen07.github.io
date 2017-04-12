@@ -2,9 +2,11 @@ body
 {
   background: url('http://pre03.deviantart.net/0d88/th/pre/f/2011/163/b/4/dark_weave_backdrop_by_merrdyn-d3ir4n1.png') center / cover;
   /*background-color: rgb(96, 125, 139); Blue Grey Primary Color
-  background-color: rgb(69, 90, 100); Blue Grey Secondary Color
+  background-color: rgb(69, 90, 100); Blue Grey Secondary(Menu/Header/Footer) Color
   background-color: rgb(3, 169, 244); Light Blue Primary Color
-  background-color: rgb(2, 136, 209); Light Blue Secondary Color*/
+  background-color: rgb(2, 136, 209); Light Blue Secondary Color
+  background-color: rgb(4, 196, 255); Light Blue Ternary(Text) Color
+  background-color: rgb(109, 220, 255); Cotton Candy Blue(Text) Color*/
 }
 
 .top-banner-image-scroll.mdl-layout__header.mdl-layout__header--transparent
@@ -54,9 +56,15 @@ nav.mdl-navigation .mdl-navigation__link
   bottom: 0
 }
 
+h2, h3, h4, p, ul, li
+{
+  width: 100%
+}
+
 .mdl-layout__content h2
 {
   text-align: center;
+  width: inherit;
   color: rgb(3, 169, 244);
   font-weight: 600;
   line-height: 200%
@@ -65,6 +73,7 @@ nav.mdl-navigation .mdl-navigation__link
 .mdl-layout__content h3
 {
   text-align: center;
+  width: inherit;
   font-weight: 600;
   line-height: 200%;
   color: rgb(3, 169, 244)
@@ -73,6 +82,7 @@ nav.mdl-navigation .mdl-navigation__link
 .mdl-layout__content h4
 {
   font-weight: 600;
+  width: inherit;
   line-height: 200%;
   text-align: center;
   color: rgb(3, 169, 244)
@@ -82,9 +92,11 @@ nav.mdl-navigation .mdl-navigation__link
 {
   line-height: 200%;
   text-align: center;
+  width: inherit;
   font-weight: 500;
-  color: rgb(2, 136, 209);
-  padding: 0 10%
+  color: rgb(109, 220, 255);
+  padding: 0 10%;
+  background-color: rgb(0, 0, 0)
 }
 
 .mdl-layout__content img
@@ -96,7 +108,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 .mdl-layout__content .life_motto
 {
-  color: rgb(2, 136, 209);
+  color: rgb(109, 220, 255);
   text-align: center;
   font-weight: 700;
   line-height: 300%;
@@ -112,7 +124,8 @@ nav.mdl-navigation .mdl-navigation__link
 {
   text-align: center;
   list-style-position: inside;
-  color: rgb(4, 196, 255)
+  color: rgb(4, 196, 255);
+  background-color: rgb(0, 0, 0)
 }
 
 .pro_prof
