@@ -98,10 +98,8 @@ nav.mdl-navigation .mdl-navigation__link
 {
   line-height: 200%;
   text-align: center;
-  width: inherit;
   font-weight: 500;
   color: rgb(109, 220, 255);
-  padding: 0 10%;
   background-color: rgb(0, 0, 0)
 }
 
