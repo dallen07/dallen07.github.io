@@ -56,10 +56,15 @@ nav.mdl-navigation .mdl-navigation__link
   bottom: 0
 }
 
-h2, h3, h4, p
+.para_style
 {
   width: 100%
 }
+
+/*h2, h3, h4, p
+{
+  width: 100%
+}Comment out for now */
 
 .mdl-layout__content h2
 {
