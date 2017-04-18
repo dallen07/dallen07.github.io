@@ -150,14 +150,15 @@ nav.mdl-navigation .mdl-navigation__link
   margin: auto;
 }
 
-.job-panel > .mdl-card__title > p
+.job-panel > .mdl-card__title > .para_style
 {
   width: 100%
 }
 
 .job-panel > .mdl-card__supporting-text > ul
 {
-  width: 100%
+  width: 100%;
+  padding: 0
 }
   
 
