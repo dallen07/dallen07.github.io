@@ -150,6 +150,11 @@ nav.mdl-navigation .mdl-navigation__link
   margin: auto;
 }
 
+.job-panel > .mdl-card
+{
+  background-color: rgba(255, 255, 255, 0.2)
+}
+
 .job-panel > .mdl-card__title > .para_style
 {
   width: 100%
