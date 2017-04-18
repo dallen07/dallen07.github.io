@@ -150,7 +150,7 @@ nav.mdl-navigation .mdl-navigation__link
   margin: auto;
 }
 
-.job-panel-1 > .profile_profession
+.job-panel-1 > .mdl-card__title
 {
   width: 100%
 }
