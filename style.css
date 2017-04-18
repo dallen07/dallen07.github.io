@@ -145,12 +145,17 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: left;
 }
 
-.job-panel-1
+.job-panel
 {
   margin: auto;
 }
 
-.job-panel-1 > .mdl-card__title > ul
+.job-panel > .mdl-card__title > p
+{
+  width: 100%
+}
+
+.job-panel > .mdl-card__supporting-text > ul
 {
   width: 100%
 }
