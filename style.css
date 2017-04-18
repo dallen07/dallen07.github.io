@@ -71,7 +71,8 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: center;
   color: rgb(3, 169, 244);
   font-weight: 600;
-  line-height: 200%
+  line-height: 200%;
+  margin: auto
 }
 
 .mdl-layout__content h3
@@ -79,7 +80,8 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: center;
   font-weight: 600;
   line-height: 200%;
-  color: rgb(3, 169, 244)
+  color: rgb(3, 169, 244);
+  margin-bottom: 5px;
 }
 
 .mdl-layout__content h4
