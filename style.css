@@ -58,7 +58,6 @@ nav.mdl-navigation .mdl-navigation__link
 
 .head_style, .para_style
 {
-  width: 60%;
   margin: auto
 }
 
@@ -94,7 +93,7 @@ nav.mdl-navigation .mdl-navigation__link
 .mdl-layout__content p
 {
   line-height: 200%;
-  width: 80%;
+  padding: 0 5px;
   margin: auto;
   text-align: center;
   font-weight: 500;
