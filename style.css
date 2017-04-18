@@ -144,6 +144,12 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: left;
 }
 
+.company_logo
+{
+  width: 150px;
+  height: 150px
+}
+
 .job-panel
 {
   margin: auto;
