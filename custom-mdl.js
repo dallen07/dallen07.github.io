@@ -1,4 +1,15 @@
-/*$("document").ready(function(){
-  $(".home-layout, .profile-layout, .projs-layout, .art-portfolio-layout").css("ul", "list-style-type: none");
-  });
-*/
+(function() {
+    'use strict';
+    var dialogButton = document.querySelector('.curr_projs_button');
+    var dialog = document.querySelector('#curr_projs_dialog');
+    if (! dialog.showModal) {
+      dialogPolyfill.registerDialog(dialog);
+    }
+    dialogButton.addEventListener('click', function() {
+       dialog.showModal();
+    });
+    dialog.querySelector('button:not([disabled])')
+    .addEventListener('click', function() {
+      dialog.close();
+    });
+  }());
