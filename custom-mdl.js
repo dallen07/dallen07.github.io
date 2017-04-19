@@ -8,7 +8,7 @@
     dialogButton.addEventListener('click', function() {
        dialog.showModal();
     });
-    dialog.querySelector('button:not([disabled])')
+    dialog.querySelector('.close_button')
     .addEventListener('click', function() {
       dialog.close();
     });
