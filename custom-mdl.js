@@ -3,7 +3,7 @@
     'use strict';
     var dialogButton = document.querySelector('.curr_projs_button');
     var dialog = document.querySelector('#curr_projs_dialog');
-    if (! dialog.showModal) 
+    if (! dialog.showModal()) 
     {
       dialogPolyfill.registerDialog(dialog);
     }
@@ -11,7 +11,7 @@
        dialog.showModal();
     });
     
-    dialog.querySelector('.close_button')
+    dialogButton.querySelector('.close_button')
     .addEventListener('click', function() {
         dialog.close();
     });
