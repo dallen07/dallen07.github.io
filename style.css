@@ -64,6 +64,7 @@ nav.mdl-navigation .mdl-navigation__link
 .para_style
 {
   padding: 0 14px;
+  display: flex;
 }
 
 @media screen and (max-width: 767px)
@@ -163,12 +164,14 @@ nav.mdl-navigation .mdl-navigation__link
 {
   width: 200px;
   height: 200px;
-  margin: auto
+  margin: auto;
+  margin-right: 0
 }
 
 .job-panel
 {
   margin: auto;
+  margin-left: auto
 }
 
 .job-panel.mdl-card
