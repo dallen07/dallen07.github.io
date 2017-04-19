@@ -8,8 +8,7 @@
     dialogButton.addEventListener('click', function() {
        dialog.showModal();
     });
-    dialog.querySelector('button:not([disabled])')
-    .addEventListener('click', function() {
+    dialogButton.addEventListener('click', function() {
       dialog.close();
     });
   }());
