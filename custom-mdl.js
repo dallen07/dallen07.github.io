@@ -1,7 +1,7 @@
 (function ()
  {
- var dialogButton = document.querySelector('.expand_button');
- var dialog = document.querySelector('.mdl-dialog');
+ var dialogButton = document.querySelectorAll('.expand_button');
+ var dialog = document.querySelectorAll('.mdl-dialog');
  if (! dialog.showModal) 
  {
     dialogPolyfill.registerDialog(dialog);
@@ -10,7 +10,7 @@
        dialog.showModal();
     });
     
- dialog.querySelector('.close_button')
+ dialog.querySelectorAll('.close_button')
     .addEventListener('click', function() {
       dialog.close();
     });
