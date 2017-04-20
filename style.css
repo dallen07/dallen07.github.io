@@ -304,10 +304,53 @@ nav.mdl-navigation .mdl-navigation__link
 
 .projs_cards_div
 {
-  display: flex
+  display: flex;
+  justify-content: center
 }
 
 /*End of Profile Page Styling */
+
+
+/*Projects Page Styling*/
+
+.projs_cards_div
+{
+  display: flex;
+  justify-content: center
+}
+
+.github_img
+{
+  margin: auto;
+  width: 50%
+}
+
+.github_img img
+{
+  width: 100%
+}
+
+.curr_projs
+{
+  width: 300px;
+  height: 300px
+}
+
+
+.past_projs
+{
+  width: 300px;
+  height: 300px
+}
+
+
+.future_projs
+{
+  width: 300px;
+  height: 300px
+}
+
+/*End of Projects Page Styling*/
 
 
 /*Art Portfolio Page Styling */
@@ -323,22 +366,6 @@ nav.mdl-navigation .mdl-navigation__link
 }
 
 /*End of Art Portfolio Styling */
-
-
-/*Project Styling*/
-
-.github_img
-{
-  margin: auto;
-  width: 50%
-}
-
-.github_img img
-{
-  width: 100%
-}
-
-/*End of Project Styling*/
 
 
 /*Social Media Links for all pages*/
