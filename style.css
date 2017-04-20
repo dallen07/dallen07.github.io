@@ -302,6 +302,11 @@ nav.mdl-navigation .mdl-navigation__link
   padding: 0
 }
 
+.projs_cards_div
+{
+  display: flex
+}
+
 /*End of Profile Page Styling */
 
 
