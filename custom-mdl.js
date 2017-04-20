@@ -1,7 +1,7 @@
 (function ()
  {
  var dialogButton = document.querySelector('.expand_button');
- var dialog = document.querySelector('.mdl_dialog');
+ var dialog = document.querySelector('.mdl-dialog');
  if (! dialog.showModal) 
  {
     dialogPolyfill.registerDialog(dialog);
