@@ -119,104 +119,6 @@ nav.mdl-navigation .mdl-navigation__link
   width: 100%
 }
 
-/*Profile Page Styling*/
-
-.mdl-layout__content .life_motto
-{
-  color: rgb(109, 220, 255);
-  text-align: center;
-  font-weight: 700;
-  line-height: 300%;
-}
-
-.profile_img
-{
-  width: 20%;
-  margin: auto
-}
-
-.profile_content
-{
-  background-color: rgb(0, 0, 0);
-  margin: auto;
-  width: 70%;
-  padding-bottom: 10px;
-  min-width: 767px;
-  max-width: 1280px
-}
-
-.profile_profession
-{
-  text-align: center;
-  list-style-position: inside;
-  color: rgb(4, 196, 255);
-  width: 40%;
-  margin: auto
-}
-
-.pro_prof
-{
-  list-style-type: square;
-  text-align: left;
-}
-
-.company_logo
-{
-  width: 200px;
-  height: 200px;
-  margin: auto;
-  margin-right: 0
-}
-
-.job-panel
-{
-  margin: auto;
-  margin-left: auto
-}
-
-.job-panel.mdl-card
-{
-  background: rgba(255, 255, 255, 0.2)
-}
-
-.job-panel > .mdl-card__title > .para_style
-{
-  width: 100%
-}
-
-.job-panel > .mdl-card__supporting-text > ul
-{
-  width: 100%;
-  padding: 0
-}
-  
-
-/*End of Profile Page Styling */
-
-/*Art Portfolio Page Styling */
-
-.mdl-layout__content .revamp_msg
-{
-  text-align: center;
-  font-size: x-large;
-  font-weight: 900;
-  letter-spacing: 5px;
-  text-decoration: underline;
-  line-height: 300%
-}
-
-/*End of Art Portfolio Styling */
-
-/*Project Styling*/
-
-.github_img
-{
-  margin: auto;
-  width: 15%
-}
-
-/*End of Project Styling*/
-
 .mdl-layout__content .mdl-grid
 {
   justify-content: center;
@@ -329,6 +231,111 @@ nav.mdl-navigation .mdl-navigation__link
   text-align: center
 }
 
+/*Profile Page Styling*/
+
+.mdl-layout__content .life_motto
+{
+  color: rgb(109, 220, 255);
+  text-align: center;
+  font-weight: 700;
+  line-height: 300%;
+}
+
+.profile_img
+{
+  width: 20%;
+  margin: auto
+}
+
+.profile_content
+{
+  background-color: rgb(0, 0, 0);
+  margin: auto;
+  width: 70%;
+  padding-bottom: 10px;
+  min-width: 767px;
+  max-width: 1280px
+}
+
+.profile_profession
+{
+  text-align: center;
+  list-style-position: inside;
+  color: rgb(4, 196, 255);
+  width: 40%;
+  margin: auto
+}
+
+.pro_prof
+{
+  list-style-type: square;
+  text-align: left;
+}
+
+.company_logo
+{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  margin-right: 0
+}
+
+.job-panel
+{
+  margin: auto;
+  margin-left: auto
+}
+
+.job-panel.mdl-card
+{
+  background: rgba(255, 255, 255, 0.2)
+}
+
+.job-panel > .mdl-card__title > .para_style
+{
+  width: 100%
+}
+
+.job-panel > .mdl-card__supporting-text > ul
+{
+  width: 100%;
+  padding: 0
+}
+
+/*End of Profile Page Styling */
+
+
+/*Art Portfolio Page Styling */
+
+.mdl-layout__content .revamp_msg
+{
+  text-align: center;
+  font-size: x-large;
+  font-weight: 900;
+  letter-spacing: 5px;
+  text-decoration: underline;
+  line-height: 300%
+}
+
+/*End of Art Portfolio Styling */
+
+
+/*Project Styling*/
+
+.github_img
+{
+  margin: auto;
+  width: 50%
+}
+
+.github_img img
+{
+  width: 100%
+}
+
+/*End of Project Styling*/
+
+
 /*Social Media Links for all pages*/
 
 .home-layout li, .profile-layout li, .projs-layout li, .art-portfolio-layout li
@@ -394,4 +401,5 @@ nav.mdl-navigation .mdl-navigation__link
 {
   background: url('https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png')
 }
+
 /*End of Social Media Links on all pages*/
