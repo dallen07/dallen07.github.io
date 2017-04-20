@@ -330,21 +330,21 @@ nav.mdl-navigation .mdl-navigation__link
   width: 100%
 }
 
-.curr_projs
+.current_projs.mdl-card
 {
   width: 300px;
   height: 300px
 }
 
 
-.past_projs
+.past_projs.mdl-card
 {
   width: 300px;
   height: 300px
 }
 
 
-.future_projs
+.future_projs.mdl-card
 {
   width: 300px;
   height: 300px
