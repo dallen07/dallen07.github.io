@@ -18,7 +18,7 @@
 
 (function ()
 {
- var dialogs = document.querySelectorAll('.dialog-container'), i;
+ var dialogs = document.querySelectorAll('.dialog_container'), i;
  for (i = 0; i < dialogs.length; i++)
  {
   var dialog = dialogs[i].querySelector('.mdl-dialog'),
