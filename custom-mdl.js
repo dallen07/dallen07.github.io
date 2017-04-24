@@ -35,3 +35,4 @@
     this.showModal();
   }.bind(dialog));
  }
+})
