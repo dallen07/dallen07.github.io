@@ -25,7 +25,7 @@
       expandButton = document.querySelector('.expand_button'+i),
       closeButton = dialogs[i].querySelector('.close_button');
   
-  dialogPolyfill.registerDialog(dialogs[i]);
+  dialogPolyfill.registerDialog(dialog[i]);
   
   expandButton.addEventListener('click', function () {
     this.showModal();
