@@ -22,7 +22,7 @@
  for (i = 0; i < dialogs.length; i++)
  {
   var dialog = dialogs[i].querySelector('.mdl-dialog'),
-      expandButton = document.querySelector('.expand_button0'+i),
+      expandButton = document.querySelector('.expand_button'+i),
       closeButton = dialogs[i].querySelector('.close_button');
   
   dialogPolyfill.registerDialog(dialog);
