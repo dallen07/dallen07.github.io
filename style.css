@@ -353,7 +353,7 @@ nav.mdl-navigation .mdl-navigation__link
   background: url('http://wadhwa.com/wp-content/uploads/2016/08/live-in-future-300x200.png') center / cover
 }
 
-.curr_projs_title, .past_projs_title, .future_projs_title
+.curr_projs_title, .past_projs_title, .future_projs_title > .mdl-layout__content > h2
 {
   font-weight: 800;
   text-shadow: 3px 3px black;
@@ -362,9 +362,14 @@ nav.mdl-navigation .mdl-navigation__link
   line-height: 100%
 }
 
-.expand_button0, .expand_button1, .expand_button2
+.curr_projs_actions, .past_projs_title, .future_projs_title > .mdl-card__actions
 {
   text-align: center
+}
+
+.expand_button0, .expand_button1, .expand_button2 > .mdl-button.mdl-button--colored
+{
+  color: darkgoldenrod
 }
 
 /*End of Projects Page Styling*/
