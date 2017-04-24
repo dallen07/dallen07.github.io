@@ -32,7 +32,7 @@
   }.bind(dialog));
   
   closeButton.addEventListener('click', function () {
-    this.showModal();
+    this.close();
   }.bind(dialog));
  }
 }());
