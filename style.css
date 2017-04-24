@@ -333,21 +333,24 @@ nav.mdl-navigation .mdl-navigation__link
 .current-projs.mdl-card
 {
   width: 300px;
-  height: 300px
+  height: 300px;
+  background: url('https://writing303portfolio.files.wordpress.com/2013/05/keep-calm-work-in-progress-3.png')
 }
 
 
 .past-projs.mdl-card
 {
   width: 300px;
-  height: 300px
+  height: 300px;
+  background: url('http://vignette3.wikia.nocookie.net/spongebob/images/8/82/Back_to_the_Past.jpg/revision/latest?cb=20100217061730')
 }
 
 
 .future-projs.mdl-card
 {
   width: 300px;
-  height: 300px
+  height: 300px;
+  background: url('http://wadhwa.com/wp-content/uploads/2016/08/live-in-future-300x200.png')
 }
 
 /*End of Projects Page Styling*/
