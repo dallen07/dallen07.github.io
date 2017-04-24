@@ -362,7 +362,7 @@ nav.mdl-navigation .mdl-navigation__link
   line-height: 100%
 }
 
-.expand_button
+.expand_button0, .expand_button1, .expand_button2
 {
   text-align: center
 }
