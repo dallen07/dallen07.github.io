@@ -362,7 +362,7 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   line-height: 100%
 }
 
-.curr_projs_actions .past_projs_actions .future_projs_actions .mdl-card__actions
+.mdl-card__actions .curr_projs_actions, .past_projs_actions, .future_projs_actions
 {
   text-align: center
 }
