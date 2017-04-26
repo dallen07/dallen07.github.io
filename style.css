@@ -472,4 +472,12 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
     }
 }
 
+@media screen and (min-width: 480px)
+  {
+    body
+    {
+      background-color: green;
+    }
+}
+
 /*End of Media Queries*/
