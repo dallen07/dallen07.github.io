@@ -309,7 +309,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 /*Projects Page Styling*/
 
-.projs_cards_div
+.projs_cards_div > .mdl-grid
 {
   display: flex;
   justify-content: center;
@@ -377,9 +377,9 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   background-color: rgb(3, 169, 244);
 }
 
-.curr_projs_dialog, .past_projs_dialog, .future_projs_dialog
+.curr_projs_dialog.mdl-dialog, .past_projs_dialog.mdl-dialog, .future_projs_dialog.mdl-dialog
 {
-  width: 40%
+  width: 50%
 }
 
 /*End of Projects Page Styling*/
