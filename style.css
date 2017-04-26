@@ -67,7 +67,7 @@ nav.mdl-navigation .mdl-navigation__link
   display: flex;
 }
 
-@media screen and (min-width: 767px)
+@media screen and (min-width: 767px) .profile_content
 {
   width: 100%;
   min-width: 0;
