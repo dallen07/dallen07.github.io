@@ -463,20 +463,12 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
 
 /*Media Queries*/
 
-@media screen and (min-width: 767px) 
+@media screen and (max-width: 767px) 
 {
     .profile_content
     {
       width: 100%;
       min-width: 0;
-    }
-}
-
-@media screen and (min-width: 480px)
-  {
-    h3
-    {
-      color: green;
     }
 }
 
