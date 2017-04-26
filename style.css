@@ -271,13 +271,15 @@ nav.mdl-navigation .mdl-navigation__link
   width: 200px;
   height: 200px;
   margin: auto;
-  margin-right: 0
+  margin-right: 0;
+  flex: 0 1 auto;
 }
 
 .job-panel
 {
   margin: auto;
-  margin-left: auto
+  margin-left: auto;
+  flex: 1 1 auto
 }
 
 .job-panel.mdl-card
