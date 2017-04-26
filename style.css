@@ -312,7 +312,8 @@ nav.mdl-navigation .mdl-navigation__link
 .projs_cards_div
 {
   display: flex;
-  justify-content: center
+  justify-content: center;
+  padding: 0
 }
 
 .github_img
@@ -374,6 +375,11 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
 .expand_button2.mdl-button--raised.mdl-button--colored:hover
 {
   background-color: rgb(3, 169, 244);
+}
+
+.curr_projs_dialog, .past_projs_dialog, .future_projs_dialog
+{
+  width: 40%
 }
 
 /*End of Projects Page Styling*/
