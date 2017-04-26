@@ -67,7 +67,7 @@ nav.mdl-navigation .mdl-navigation__link
   display: flex;
 }
 
-@media screen and (max-width: 767px)
+@media screen and (min-width: 767px)
 {
   width: 100%;
   min-width: 0;
