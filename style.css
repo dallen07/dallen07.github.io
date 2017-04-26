@@ -298,18 +298,12 @@ nav.mdl-navigation .mdl-navigation__link
   padding: 0
 }
 
-.projs_cards_div
-{
-  display: flex;
-  justify-content: center
-}
-
 /*End of Profile Page Styling */
 
 
 /*Projects Page Styling*/
 
-.projs_cards_div > .mdl-grid
+.projs_cards_div > .mdl-layout__content > .mdl-grid
 {
   display: flex;
   justify-content: center;
@@ -377,7 +371,7 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   background-color: rgb(3, 169, 244);
 }
 
-.curr_projs_dialog.mdl-dialog, .past_projs_dialog.mdl-dialog, .future_projs_dialog.mdl-dialog
+.mdl-dialog.curr_projs_dialog, .mdl-dialog.past_projs_dialog, .mdl-dialog.future_projs_dialog
 {
   width: 50%
 }
