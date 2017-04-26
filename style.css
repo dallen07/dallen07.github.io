@@ -342,7 +342,8 @@ nav.mdl-navigation .mdl-navigation__link
 {
   width: 300px;
   height: 300px;
-  background: url('http://vignette3.wikia.nocookie.net/spongebob/images/8/82/Back_to_the_Past.jpg/revision/latest?cb=20100217061730') center / cover
+  background: url('http://vignette3.wikia.nocookie.net/spongebob/images/8/82/Back_to_the_Past.jpg/revision/latest?cb=20100217061730') 
+    center / cover
 }
 
 
@@ -367,7 +368,8 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   text-align: center
 }
 
-.expand_button0, .expand_button1, .expand_button2 .mdl-button--raised.mdl-button--colored
+.expand_button0.mdl-button--raised.mdl-button--colored, .expand_button1.mdl-button--raised.mdl-button--colored, 
+.expand_button2.mdl-button--raised.mdl-button--colored
 {
   background-color: rgb(3, 169, 244);
 }
