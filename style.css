@@ -67,15 +67,6 @@ nav.mdl-navigation .mdl-navigation__link
   display: flex;
 }
 
-@media screen and (min-width: 767px) 
-{
-    .profile_content
-    {
-      width: 100%;
-      min-width: 0;
-    }
-}
-
 /*h2, h3, h4, p
 {
   width: 100%
@@ -468,3 +459,17 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
 }
 
 /*End of Social Media Links on all pages*/
+
+
+/*Media Queries*/
+
+@media screen and (min-width: 767px) 
+{
+    .profile_content
+    {
+      width: 100%;
+      min-width: 0;
+    }
+}
+
+/*End of Media Queries*/
