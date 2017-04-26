@@ -367,9 +367,9 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   text-align: center
 }
 
-.expand_button0, .expand_button1, .expand_button2 .mdl-button.mdl-button--colored
+.expand_button0, .expand_button1, .expand_button2 .mdl-button--raised.mdl-button--colored
 {
-  color: darkgoldenrod
+  background-color: rgb(3, 169, 244);
 }
 
 /*End of Projects Page Styling*/
