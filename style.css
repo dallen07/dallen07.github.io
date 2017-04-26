@@ -465,11 +465,16 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
 
 @media screen and (max-width: 767px) 
 {
-    .profile_content
-    {
-      width: 100%;
-      min-width: 0;
-    }
+  .profile_content
+  {
+    width: 100%;
+    min-width: 0;
+  }
+    
+  .profile_img
+  {
+    width: 45%
+  }
 }
 
 /*End of Media Queries*/
