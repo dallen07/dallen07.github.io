@@ -303,7 +303,7 @@ nav.mdl-navigation .mdl-navigation__link
 
 /*Projects Page Styling*/
 
-.projs_cards_div.mdl-layout__content.mdl-grid
+.projs_cards_div.mdl-grid
 {
   display: flex;
   justify-content: center;
