@@ -374,6 +374,12 @@ h2.curr_projs_title, h2.past_projs_title, h2.future_projs_title
   background-color: rgb(3, 169, 244);
 }
 
+.expand_button0.mdl-button--raised.mdl-button--colored:hover, .expand_button1.mdl-button--raised.mdl-button--colored:hover, 
+.expand_button2.mdl-button--raised.mdl-button--colored:hover
+{
+  background-color: rgb(3, 169, 244);
+}
+
 /*End of Projects Page Styling*/
 
 
